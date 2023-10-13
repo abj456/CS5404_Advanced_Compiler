@@ -1,0 +1,22 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/llvm/unittests/Transforms/IPO/AttributorTest.cpp" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/AttributorTest.cpp.o" "gcc" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/AttributorTest.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/llvm/unittests/Transforms/IPO/FunctionSpecializationTest.cpp" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/FunctionSpecializationTest.cpp.o" "gcc" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/FunctionSpecializationTest.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/llvm/unittests/Transforms/IPO/LowerTypeTests.cpp" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/LowerTypeTests.cpp.o" "gcc" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/LowerTypeTests.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/llvm/unittests/Transforms/IPO/WholeProgramDevirt.cpp" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/WholeProgramDevirt.cpp.o" "gcc" "unittests/Transforms/IPO/CMakeFiles/IPOTests.dir/WholeProgramDevirt.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

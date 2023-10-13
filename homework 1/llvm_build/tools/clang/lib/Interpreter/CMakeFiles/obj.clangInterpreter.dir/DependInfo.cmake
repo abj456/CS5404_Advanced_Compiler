@@ -1,0 +1,24 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/clang/lib/Interpreter/DeviceOffload.cpp" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/DeviceOffload.cpp.o" "gcc" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/DeviceOffload.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/clang/lib/Interpreter/IncrementalExecutor.cpp" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/IncrementalExecutor.cpp.o" "gcc" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/IncrementalExecutor.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/clang/lib/Interpreter/IncrementalParser.cpp" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/IncrementalParser.cpp.o" "gcc" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/IncrementalParser.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/clang/lib/Interpreter/Interpreter.cpp" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/Interpreter.cpp.o" "gcc" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/Interpreter.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/clang/lib/Interpreter/InterpreterUtils.cpp" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/InterpreterUtils.cpp.o" "gcc" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/InterpreterUtils.cpp.o.d"
+  "/Users/caipintang/git-tmp/Advanced-Compiler/homework 1/llvm-project-17.0.2.src/clang/lib/Interpreter/Value.cpp" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/Value.cpp.o" "gcc" "tools/clang/lib/Interpreter/CMakeFiles/obj.clangInterpreter.dir/Value.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
