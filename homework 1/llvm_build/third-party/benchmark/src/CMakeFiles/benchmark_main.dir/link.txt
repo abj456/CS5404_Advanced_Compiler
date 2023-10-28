@@ -1,1 +1,0 @@
-"/Library/Developer/CommandLineTools/usr/bin/libtool" -static -no_warning_for_no_symbols -o ../../../lib/libbenchmark_main.a CMakeFiles/benchmark_main.dir/benchmark_main.cc.o

@@ -1,1 +1,0 @@
-"/Library/Developer/CommandLineTools/usr/bin/libtool" -static -no_warning_for_no_symbols -o ../../../lib/libllvm_gtest_main.a CMakeFiles/llvm_gtest_main.dir/TestMain.cpp.o
